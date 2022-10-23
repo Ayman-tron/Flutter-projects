@@ -9,4 +9,4 @@ Mi Card is a personal business card and this project will explore the following 
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
-<center><img src="images/app.jpeg"  width="230.5" height="512"></center>
+<img src="images/app.jpeg"  width="230.5" height="512" class="center">
