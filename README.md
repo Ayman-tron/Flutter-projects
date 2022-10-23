@@ -6,12 +6,12 @@
 This project allowed me to explore the following:
 <ul>
   <li>How to create Stateless Widgets</li>
-* What is the difference between hot reload and hot refresh and running an app from cold
-* How to use Containers to lay out your UI
-* How to use Columns and Rows to position your UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-* How to read and use Flutter Documentation
+<li> What is the difference between hot reload and hot refresh and running an app from cold</li>
+<li> How to use Containers to lay out your UI</li>
+<li> How to use Columns and Rows to position your UI elements</li>
+<li> How to add custom fonts</li>
+<li> How to add Material icons</li>
+<li> How to style Text widgets</li>
+<li> How to read and use Flutter Documentation</li>
 </ul>
 </p>
