@@ -1,3 +1,3 @@
 ## Mi-card Project
 
-<img src="images/app.jpeg"  width="500" height="600">
+<img src="images/app.jpeg"  width="921" height="2048">
